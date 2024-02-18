@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Латте",
+        "price": 109,
+        "image": "latte.jpg",
+        "parent": "drinks"
+    },
+    {
+        "title": "Капучино",
+        "price": 120,
+        "image": "kapo.jpg",
+        "parent": "drinks"
+    }
+]
