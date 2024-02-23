@@ -36,5 +36,17 @@
         "price": 170,
         "image": "sheeskeak.png",
         "parent": "desert"
+    },
+    {
+        "title": "Муравейник",
+        "price": 120,
+        "image": "murav.png",
+        "parent": "desert"
+    },
+    {
+        "title": "Пряник",
+        "price": 75,
+        "image": "pranik.png",
+        "parent": "desert"
     }
 ]
