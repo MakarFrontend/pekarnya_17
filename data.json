@@ -22,5 +22,19 @@
         "price": 120,
         "image": "kakao.png",
         "parent": "drinks"
+    },
+
+
+    {
+        "title": "Картошка",
+        "price": 55,
+        "image": "kartoshka.png",
+        "parent": "desert"
+    },
+    {
+        "title": "Чизкейк",
+        "price": 170,
+        "image": "sheeskeak.png",
+        "parent": "desert"
     }
 ]
