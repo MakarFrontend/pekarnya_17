@@ -2,25 +2,25 @@
     {
         "title": "Латте",
         "price": 140,
-        "image": "latte.png",
+        "image": "images/latte.png",
         "parent": "drinks"
     },
     {
         "title": "Капучино",
         "price": 135,
-        "image": "kapo.png",
+        "image": "images/kapo.png",
         "parent": "drinks"
     },
     {
         "title": "Эспрессо",
         "price": 150,
-        "image": "esspresso.png",
+        "image": "images/esspresso.png",
         "parent": "drinks"
     },
     {
         "title": "Какао",
         "price": 120,
-        "image": "kakao.png",
+        "image": "images/kakao.png",
         "parent": "drinks"
     },
 
@@ -28,25 +28,25 @@
     {
         "title": "Картошка",
         "price": 55,
-        "image": "kartoshka.png",
+        "image": "images/kartoshka.png",
         "parent": "desert"
     },
     {
         "title": "Чизкейк",
         "price": 170,
-        "image": "sheeskeak.png",
+        "image": "images/sheeskeak.png",
         "parent": "desert"
     },
     {
         "title": "Муравейник",
         "price": 120,
-        "image": "murav.png",
+        "image": "images/murav.png",
         "parent": "desert"
     },
     {
         "title": "Пряник",
         "price": 75,
-        "image": "pranik.png",
+        "image": "images/pranik.png",
         "parent": "desert"
     }
 ]
